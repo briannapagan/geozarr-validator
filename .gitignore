@@ -9,10 +9,8 @@ venv
 env/
 venv/*
 *env.sh
-*.ipynb*
 __pycache__/*
 outputs/*.csv
-*.ipynb
 env/*
 env
 .DS_Store
@@ -20,3 +18,5 @@ env
 *.code-workspace
 credentials
 *.lst
+output-data/
+example-notebooks/
